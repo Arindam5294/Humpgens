@@ -1,5 +1,9 @@
 # Humpgens
-This repository is made to represent the ORDINALS and their On chain Json Formats together.  Why Json ? Why not original files?  We're here creating a Ordinal collection for Brc 2.0 utility and usage. Brc20 used to be fun with json and text inscriptions.  We're here trying to bring back the bridge between Ordinals and Brc20 .
+This repository is made to represent the ORDINALS and their On chain Json/SVG Formats together.  Why JSON ? Why not original files?  We're here creating a Ordinal collection for Brc 2.0 utility and usage. Brc20 used to be fun with json and text inscriptions.  We're here trying to bring back the bridge between Ordinals and Brc20 .
+
+
+⚠️🚨FYI: No launchpad currently provides a launchpad support for json collection minting with Whitelisting features. So we had to convert all the 111 jsons to SVG files to ease of representation on a launchpad. 
+
 
 How to find your linked ordinal? 
 
