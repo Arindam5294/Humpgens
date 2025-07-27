@@ -12,7 +12,7 @@ For example, the genesis file is 77.png.jpg and the hex number connected to it i
 
 We'll provide a full folder of all genesis files here and don't worry about the file size. 
 
-We'll provide the json files with the hex number connected to the Ordinal on the minting platform . So basically all you're minting is a json file with super low cost.
+We'll provide the SVG files with the hex number in it connected to the Ordinal on the minting platform . So basically all you're minting is a SVG file with super low cost.
 
-After you mint your json inscription, check the hex number in it and download the Genesis file from the HTML page by entering the secret code to get your high resolution Ordinal genesis file linked to the Hex number and use it as pfp or social interaction platforms.
+After you mint your SVG inscription, check the hex number in it and download the Genesis file from the HTML page by entering the secret code to get your high resolution Ordinal genesis file linked to the Hex number and use it as pfp or social interaction platforms.
 
