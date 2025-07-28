@@ -2,9 +2,6 @@
 This repository is made to represent the ORDINALS and their On chain Json/SVG Formats together.  Why JSON ? Why not original files?  We're here creating a Ordinal collection for Brc 2.0 utility and usage. Brc20 used to be fun with json and text inscriptions.  We're here trying to bring back the bridge between Ordinals and Brc20 .
 
 
-⚠️🚨FYI: No launchpad currently provides a launchpad support for json collection minting with Whitelisting features. So we had to convert all the 111 jsons to SVG files to ease of representation on a launchpad. 
-
-
 How to find your linked ordinal? 
 
 There'll be a HTML given below, in which there will be the option to your enter your secret code to unlock your Ordinal.
@@ -16,7 +13,7 @@ For example, the genesis file is 77.png.jpg and the hex number connected to it i
 
 We'll provide a full folder of all genesis files here and don't worry about the file size. 
 
-We'll provide the SVG files with the hex number in it connected to the Ordinal on the minting platform . So basically all you're minting is a SVG file with super low cost.
+We'll provide the JSON/SVG files with the hex number in it connected to the Ordinal on the minting platform . So basically all you're minting is a JSON/SVG file with super low cost.
 
-After you mint your SVG inscription, check the hex number in it and download the Genesis file from the HTML page by entering the secret code to get your high resolution Ordinal genesis file linked to the Hex number and use it as pfp or social interaction platforms.
+After you mint your JSON/SVG inscription, check the hex number in it and download the Genesis file from the HTML page by entering the secret code to get your high resolution Ordinal genesis file linked to the Hex number and use it as pfp or social interaction platforms.
 
